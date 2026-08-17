@@ -70,4 +70,6 @@ The system takes the following customer information:
 pip install -r requirements.txt
 
 STREMLIT APP
+
 LIVE DEMO
+("https://customer-churn-prediction-system-ju6wovga86hfpnbwa8ikbn.streamlit.app/")
